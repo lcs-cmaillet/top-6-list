@@ -7,12 +7,9 @@
 
 import SwiftUI
 
-struct Top6ListView: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
-}
 
-#Preview {
-    Top6ListView()
+struct List6: View {
+    var body: some View {
+        Text("Hello world")
+    }
 }
